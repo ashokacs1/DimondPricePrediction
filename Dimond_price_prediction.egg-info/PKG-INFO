@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Dimond-price-prediction
+Version: 0.0.1
+Author: Ashoka
+Author-email: example.com
+Requires-Dist: pandas
+Requires-Dist: scipy
